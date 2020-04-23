@@ -1,2 +1,2 @@
-# Wwise-Unreal-Gamesyncs-Generate-Data-Table
-Improved String Handling. Create a data table for all gamesyncs (RTPC, Switches, States) in the Unreal project, to use with Wwise nodes in blueprints
+# Wwise Unreal Generate Gamesyncs Data Table
+Improved string handling for Wwise nodes when working in Unreal blueprints. Creates a data table for all gamesyncs (RTPC, Switches, States) in the Unreal project. 
