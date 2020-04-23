@@ -51,7 +51,9 @@ Finally, the technical audio designer can call the 'Get Data Table Row' node and
 ## UNIX Executable: Using a Bash Script to Run the Python Script
 To avoid opening a Python IDE everytime to run the script, a UNIX Exeutable can be used instead. 
 
-You can used 'cd' to change to the .py file directory and 'python3 "FileNameHere.py"' to run
+Create a new .txt file and enter the following:
+
+> Note: You can used 'cd' to change to the .py file directory and 'python3 "FileNameHere.py"' to run
 ```
 #!/bin/bash
 
@@ -64,5 +66,12 @@ python3 'Wwise Generate Gamesyncs Datatable.py'
 killall Terminal
 ```
 
+Then close the file, delete the '.txt' extension from the filename, open Terminal (or command prompt)
+
+'cd' to where the .txt file was and run
+```
+chmod 744 '---filename---'
+```
+Where '---filename---' is the name of your file
 
 
