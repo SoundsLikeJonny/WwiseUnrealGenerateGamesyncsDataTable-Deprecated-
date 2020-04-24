@@ -3,6 +3,8 @@ Improved string handling for Wwise nodes when working in Unreal blueprints. Crea
 
 > Note: This script is in no way tied to working with the Unreal Engine. It just creates a .csv file that Unreal can use. You could use this script to create a .csv for any other purpose, such as with another engine (Unity, CryEngine, GameMaker Studio, etc.)
 
+> Below just illustrates how this script is used to solve a workflow problem with Wwise and Unreal
+
 ## Wwise Gamesyncs and Unreal Engine Wwise Bluprint Nodes
 As an audio designer, one thing that has frustrated me when working with Wwise and Unreal Blueprints is renaming.
 
