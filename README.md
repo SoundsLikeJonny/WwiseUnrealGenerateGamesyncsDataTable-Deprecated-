@@ -1,6 +1,8 @@
 # Wwise Unreal Generate Gamesyncs Data Table
 Improved string handling for Wwise nodes when working in Unreal blueprints. Creates a data table for gamesyncs (RTPC, Switches, States) in the Unreal project. Works alongside a UE Structure to determine the data type of the CSV row.
 
+> Note: This script is in no way tied to working with the Unreal Engine. It just creates a .csv file that Unreal can use. You could use this script to create a .csv for any other purpose, such as with another engine (Unity, CryEngine, GameMaker Studio, etc.)
+
 ## Wwise Gamesyncs and Unreal Engine Wwise Bluprint Nodes
 As an audio designer, one thing that has frustrated me when working with Wwise and Unreal Blueprints is renaming.
 
