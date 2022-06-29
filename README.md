@@ -1,4 +1,11 @@
-# Wwise Unreal Generate Gamesyncs Data Table
+# Wwise Unreal Generate Gamesyncs Data Table [Deprecated]
+#
+#
+> This repository is deprecated. Current versions of the Wwise SDK plugin for Unreal allow for Switches and States to be usable assets
+#
+#
+
+
 Improved string handling for Wwise nodes when working in Unreal blueprints. Creates a data table for gamesyncs (RTPC, Switches, States) in the Unreal project. Works alongside a UE Structure to determine the data type of the CSV row.
 
 > Note: This script is in no way tied to working with the Unreal Engine. It just creates a .csv file that Unreal can use. You could use this script to create a .csv for any other purpose, such as with another engine (Unity, CryEngine, GameMaker Studio, etc.)
