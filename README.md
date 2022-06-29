@@ -1,7 +1,7 @@
 # Wwise Unreal Generate Gamesyncs Data Table [Deprecated]
 #
 #
-> This repository is deprecated. Current versions of the Wwise SDK plugin for Unreal allow for Switches and States to be usable assets
+> This repository is deprecated since current versions of the Wwise SDK plugin for Unreal allow for Switches and States to be usable assets.
 #
 #
 
